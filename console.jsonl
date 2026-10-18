@@ -1,0 +1,20 @@
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792280644316}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792281167096}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792295891663}
+{"level":"debug","message":"[vite] hot updated: /src/components/MyPayments.tsx","timestamp":1792295891664}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentDetail.tsx","timestamp":1792295891664}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreatePayment.tsx","timestamp":1792295891664}
+{"level":"debug","message":"[vite] hot updated: /src/components/Layout.tsx","timestamp":1792295891665}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1792295891665}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatusBadge.tsx","timestamp":1792295891665}
+{"level":"debug","message":"[vite] connected.","timestamp":1792295893345}
+{"level":"debug","message":"[vite] hot updated: /src/components/MyPayments.tsx","timestamp":1792296009019}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792296009019}
+{"level":"debug","message":"[vite] connected.","timestamp":1792296322615}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792296326496}
+{"level":"debug","message":"[vite] hot updated: /src/components/MyPayments.tsx","timestamp":1792296326497}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentDetail.tsx","timestamp":1792296326497}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreatePayment.tsx","timestamp":1792296326497}
+{"level":"debug","message":"[vite] hot updated: /src/components/Layout.tsx","timestamp":1792296326497}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1792296326497}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatusBadge.tsx","timestamp":1792296326498}
